@@ -1,0 +1,36 @@
+Package: com.0x7ff.dimentio
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: System
+Maintainer: 1Conan <tweaks@1conan.com>
+Installed-Size: 372
+Provides: dimentio
+Conflicts: dimentio
+Filename: ./debians/com.0x7ff.dimentio_2.0.0.deb
+Size: 21292
+MD5sum: 4dd7135aedfee807f82c4255589ff79e
+SHA1: c5a61118db84f5b8cb74e778d89d28acf238be64
+SHA256: f6f7d755ac414dce3ab789680e4fb8ae2fe17ed2655214784eedb1600f5338a9
+SHA512: cd928a4248166ba19838c6b8ee92f83d2ad90bda87fb089f95acc0ecf47a971b061ea5448429e8db22c557f61aa8c31f55db6837970f71ca4752015587fcd5c4
+Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Tag: role::hacker
+Name: dimentio
+Author: 0x7ff
+
+Package: com.x1.alertbar
+Architecture: iphoneos-arm
+Version: 0.0.1-4+debug
+Section: Tweaks
+Maintainer: X1
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.x1.alertbar.deb
+Size: 2660
+MD5sum: 45cea2f7d46c08fa00b9e3302d0e6713
+SHA1: 471796bb0603a8762ad71b4ae0d8ea2c010e1f9a
+SHA256: 1b62ddfd8adb897d28291981c8456a2068986fcee2d4714f5fc84da35611d381
+SHA512: 69d27db7952a040847536a4127b5291e2d551845a0e96798ecf3665090d6af7ff4029cb9b56ce18600b86fa3877ec047ad68500c2383ee10caa3e1ec73160701
+Description: AlertBar shows you an alert if you press the status bar
+Name: AlertBar
+Author: X1
+
