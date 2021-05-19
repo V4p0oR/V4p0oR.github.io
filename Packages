@@ -1,3 +1,25 @@
+Package: wiki.qaq.Protein
+Architecture: iphoneos-arm
+Version: 1.0-2-160766
+Section: Applications
+Maintainer: Saily Team <master@233owo.com>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Filename: ./debians/Saily-CI-1.0-2-160766.deb
+Size: 20471474
+MD5sum: 84c5e3e10e304dd38c6cbaaa1a55f6a8
+SHA1: 62371bff42341705381584a94c09915c371adcb8
+SHA256: 93d3b7d43a1031b88936ce76dd601c6b22266195f6670de348dad6dfdec35379
+SHA512: 03cba74de39976d419a1ab02528cebce538e36976e7f667af8d75015c782ae00b096fff5ae280f68c7fc457a189ad3a092c18bfb984601155cfafea592c55fd7
+Homepage: https://github.com/SailyTeam/main/
+Description: Modern. Fast. Beautiful.
+Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
+Name: Saily
+Author: Saily Team <master@233owo.com>
+Website: https://github.com/SailyTeam/main/
+Depiction: https://github.com/SailyTeam/main/blob/master/README.md
+Nativedepiction: https://github.com/SailyTeam/main/raw/master/Attachments/nativeDepiction.json
+
 Package: com.0x7ff.dimentio
 Architecture: iphoneos-arm
 Version: 2.0.0
