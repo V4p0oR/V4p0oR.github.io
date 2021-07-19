@@ -39,6 +39,23 @@ Tag: role::hacker
 Name: dimentio
 Author: 0x7ff
 
+Package: com.allstars101.oneui2theme
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: ChrisPagolu
+Depends: com.spark.snowboard
+Filename: ./debians/com.allstars101.oneui2theme_beta1.deb
+Size: 289092
+MD5sum: d92ce137e06e51833042abb562703fe7
+SHA1: 40381169aa494a1678fb399e36a3561941130d99
+SHA256: 664b4a0d0dd92321c450b87b01a9c0b0f71530a67b05b6271680882051792251
+SHA512: 445f9ac7d8fab0f57472640133e903e49ba33e48eaa60c5baa799c2d17ef8f9f0840f41dfc28e3bd6ede2aff8ad311cd57df89f4ec7f562fb80db3dd3e4ed57b
+Description: A theme/icon pack directly ported from a Galaxy S9 running on One UI 2.0. Most system icons are replaced along with a few third party icons (basically whatever One UI substitutes).
+Name: OneUI 2.0
+*NOTE: Compatibility tested only for iOS 13.x. May or may not work for iOS 11/12.x. Moreover, it is highly unlikely that this theme would work for any iPad.* Also, all copyright and reserved rights belong to Samsung Electronics Co. Ltd. No icon that is part of this theme belongs to me. In addition, your iDevice might me unresponsive for a while. Just wait for a while and it should be normal. Since many third party icons have not yet been added, I'd recommend using the Lotus theme or something similar with a custom corner radius setting of 19px in Snowboard. Socials- Discord: AllStars101#4367, telegram: @AllStars101, Twitter: @ChrisPagolu.
+Author: ChrisPagolu
+
 Package: com.x1.alertbar
 Architecture: iphoneos-arm
 Version: 0.0.1-4+debug
