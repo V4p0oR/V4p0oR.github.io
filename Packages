@@ -1,3 +1,18 @@
+Package: com.fucker.W41K3R
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Application
+Maintainer: Walker #38503 <nedelarobert1@gmail.com>
+Filename: ./debians/W41K3R.deb
+Size: 67880
+MD5sum: bd75ebdcfed6a71a7d792a65e902590c
+SHA1: 38c18590c45bbbe6f01ef634eed6acb829169615
+SHA256: e6984b17ef1512151f4f2e14b205bd934d6ff47ae44bf673a819bf864c5ee649
+SHA512: a4c7bae8db605e4a0ce48f142013ebc237cffc2532c134bbdfc2c7e72088a118f9630797235c6b2fe36588885a1567c86d58091bdec32c8e1577d48a14a798c8
+Name: W41K3R
+Author: Walker #38503 <nedelarobert1@gmail.com>
+Depiction: An application for the Secret Platform
+
 Package: wiki.qaq.chromatic
 Architecture: iphoneos-arm
 Version: 2.1-REL-1630256801
