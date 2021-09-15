@@ -15,16 +15,16 @@ Depiction: An application for the Secret Platform
 
 Package: wiki.qaq.chromatic
 Architecture: iphoneos-arm
-Version: 2.1-REL-1630256801
+Version: 2.1-REL-1631701341
 Section: Applications
 Maintainer: Saily Team <master@233owo.com>
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
-Filename: ./debians/chromatic.rel.ci.1630256801.deb
-Size: 9891604
-MD5sum: 4fd43271491371689f21733b1e67350f
-SHA1: 38a12c652ffedfd2440bdfb55bf833ec8a976cf7
-SHA256: 6d34d80ea068cbf136e6b5cb10296eb4493e112fa4d79e1620437377f5a090b6
-SHA512: 9a37cad531b6dd655d0d6492dc5d0596b7b8f32ee73bf9c5c0e5cbab863e5a602303375cbeb6aab2363572a78785b607023a79423102a666df1a7b2d8725b905
+Filename: ./debians/chromatic.rel.ci.1631701341.deb
+Size: 9937952
+MD5sum: 5049cf7de4ec3c50b22f0796247f4a20
+SHA1: bf71c369a52f74c0ea31194832555d9286ce343e
+SHA256: 4f7549dfac289505ef5109de4edfbf4b3de5807c0ef44e7f7867af6b7cca5af9
+SHA512: acefed96daf1b4ab6abbc7b01f2bb971d55b355a7838d16b4c7eb66dd2e3c6775911b9f55ac7034df46b5b538d0d3d2758efd129231825ece391ed58551a233b
 Homepage: https://github.com/SailyTeam/main/
 Description: Modern. Fast. Beautiful.
 Name: Saily
