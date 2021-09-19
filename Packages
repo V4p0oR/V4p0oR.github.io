@@ -72,20 +72,19 @@ Author: ChrisPagolu
 
 Package: com.fucker.oneui
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Section: Themes
 Maintainer: fucker
 Installed-Size: 428
-Depends: com.anemonetheming.aneome3
-Filename: ./debians/com.fucker.oneui_0.0.1-1+debug_iphoneos-arm.deb
-Size: 289444
-MD5sum: 9b7a69dbf20384cbb1cfb1834de89ac6
-SHA1: e2628c472f8b36ba270833652a187bb918f0a257
-SHA256: 806111d5c69312dee2ef474e58babc5e8783a33f54917f9490acabdcc13518d0
-SHA512: 61d01a611f413a7d0d026a75dd11c113c2cab8a725396c1878fdc9a1825f36a5f611b406dae0214dc61d3f2b617e06f505b3beed7ed9cfd027ac8fa2cef6d11d
-Description: A theme/icon pack directly ported from a Galaxy S9 running on One UI 2.0. Most system icons are replaced along with a few third party icons (basically whatever One UI substitutes).
+Depends: com.anemonetheming.anemone3
+Filename: ./debians/com.fucker.oneui_0.0.1-2+debug_iphoneos-arm.deb
+Size: 289044
+MD5sum: 3ca59dc14a9901cf572954f2b0b864c2
+SHA1: c590838921180cbe71751daa6a568727ddb88735
+SHA256: 63d3e26e5cee72552775f1a6b694d9e0e1b6080c071d7b33a9a71be6a396e61d
+SHA512: 4eec55ce1cf2d44e56ca8b21d9e1d3d24960e0e431da103ecc611ed7583f8496f2a21bad60d5e13a4ee9817a9186a88418f4f665edf01de01cd680e2afeb1d7d
+Description: Basically OneUI 2.0 icons ported from android
 Name: OneUI
-*NOTE: Compatibility tested only for iOS 13.x. May or may not work for iOS 11/12.x. Moreover, it is highly unlikely that this theme would work for any iPad.* Also, all copyright and reserved rights belong to Samsung Electronics Co. Ltd. No icon that is part of this theme belongs to me. In addition, your iDevice might me unresponsive for a while. Just wait for a while and it should be normal. Since many third party icons have not yet been added, I'd recommend using the Lotus theme or something similar with a custom corner radius setting of 19px in Snowboard
 Author: fucker
 
 Package: com.x1.alertbar
