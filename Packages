@@ -70,6 +70,21 @@ Name: OneUI 2.0
 *NOTE: Compatibility tested only for iOS 13.x. May or may not work for iOS 11/12.x. Moreover, it is highly unlikely that this theme would work for any iPad.* Also, all copyright and reserved rights belong to Samsung Electronics Co. Ltd. No icon that is part of this theme belongs to me. In addition, your iDevice might me unresponsive for a while. Just wait for a while and it should be normal. Since many third party icons have not yet been added, I'd recommend using the Lotus theme or something similar with a custom corner radius setting of 19px in Snowboard. Socials- Discord: AllStars101#4367, telegram: @AllStars101, Twitter: @ChrisPagolu.
 Author: ChrisPagolu
 
+Package: com.fucker.ehpanda
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Applications
+Maintainer: fucker
+Filename: ./debians/com.fucker.ehpanda_1.3.3_iphoneos-arm.deb
+Size: 3115732
+MD5sum: 7430d077a39eedb7bf85143d676d6b0a
+SHA1: d101e6a010808680a242315d072eb26a1af1d483
+SHA256: 907680b553e512bc44d3cc821202e66793d6631a1e06af2018f2095cbe0c76e8
+SHA512: 637bf35662d2ad54009c509440baddef96af279e8571d5e454e4545fcbed8862dd01a4f50ae21ec2e13df87e48afb1d0d2925ef7e4a204855ef512eeafeba727
+Description: An unofficial E-Hentai App for iOS built with SwiftUI.
+Name: EhPanda
+Author: tatsuz0u
+
 Package: com.fucker.oneui
 Architecture: iphoneos-arm
 Version: 0.0.1-2+debug
