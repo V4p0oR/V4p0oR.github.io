@@ -85,6 +85,21 @@ Description: An unofficial E-Hentai App for iOS built with SwiftUI.
 Name: EhPanda
 Author: tatsuz0u
 
+Package: com.fucker.isupersu
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Applications
+Maintainer: fucker
+Filename: ./debians/com.fucker.isupersu.deb
+Size: 26232
+MD5sum: d65730e6d8680d5631e505b29ba2de31
+SHA1: 324b13a698e13efd7aa7bad7a04170e56db35e39
+SHA256: 744d96f78682ae361eaf182e911204c08debd390da7e0c151b5ce20ab9356ef6
+SHA512: 4031d4aaed3e2f47cd32220224d8b085c0e6c94a278c6c481a487c9dc23246f1b8f26cab3cadeae9d2595ff9a188af33220293a8ba9cbd36dba8afb85dad4979
+Description: A SuperSU-style app to privilege other processes on the go
+Name: iSuperSu
+Author: jakeajames
+
 Package: com.fucker.oneui
 Architecture: iphoneos-arm
 Version: 0.0.1-2+debug
@@ -118,19 +133,4 @@ SHA512: 69d27db7952a040847536a4127b5291e2d551845a0e96798ecf3665090d6af7ff4029cb9
 Description: AlertBar shows you an alert if you press the status bar
 Name: AlertBar
 Author: X1
-
-Package: com.fucker.isupersu
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: fucker
-Filename: ./debians/iSuperSU.deb
-Size: 26232
-MD5sum: d65730e6d8680d5631e505b29ba2de31
-SHA1: 324b13a698e13efd7aa7bad7a04170e56db35e39
-SHA256: 744d96f78682ae361eaf182e911204c08debd390da7e0c151b5ce20ab9356ef6
-SHA512: 4031d4aaed3e2f47cd32220224d8b085c0e6c94a278c6c481a487c9dc23246f1b8f26cab3cadeae9d2595ff9a188af33220293a8ba9cbd36dba8afb85dad4979
-Description: A SuperSU-style app to privilege other processes on the go
-Name: iSuperSu
-Author: jakeajames
 
