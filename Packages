@@ -85,6 +85,21 @@ Description: An unofficial E-Hentai App for iOS built with SwiftUI.
 Name: EhPanda
 Author: tatsuz0u
 
+Package: com.fucker.isupersu
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Applications
+Maintainer: Mr. Fucker
+Filename: ./debians/com.fucker.isupersu_1.0_iphoneos-arm.deb
+Size: 26228
+MD5sum: 3240ba954ded69577e244caa1c6178fa
+SHA1: e261651f892cc24dc7aafa69eb7f5aa05f7dd3ff
+SHA256: 305a756cf59eb987626aa22bffc4e9ab2c06146f2e9155fd65314b3eef317269
+SHA512: 49010e9b8637e2f284e44dea3f15c3a209eed1f1c27e61b097bd1a14eddea9753855e157c856152d22191dce2e52e680bbb162eb212c7bf511c1061fb59beb5f
+Description: A SuperSU-style app to privilege other processes on the go
+Name: iSuperSu
+Author: jakeajames
+
 Package: com.fucker.oneui
 Architecture: iphoneos-arm
 Version: 0.0.1-2+debug
